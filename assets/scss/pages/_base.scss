@@ -1,0 +1,23 @@
+* {
+	box-sizing: border-box;
+    // scroll-behavior:smooth;
+}
+
+body{
+    line-height: 1.5;
+    font-family: 'Noto Sans TC', 'Roboto', sans-serif;
+
+    img{
+        max-width: 100%;
+        height: auto;
+        display: block;
+    }
+
+    a{
+        text-decoration: none;
+        display: block;
+    }
+
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;700&family=Roboto&display=swap');

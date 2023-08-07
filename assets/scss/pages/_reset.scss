@@ -30,21 +30,6 @@ footer, header, hgroup, menu, nav, section {
 body {
     line-height: 1.5;
 
-    img{
-        max-width: 100%;
-        height: auto;
-        display: block;
-    }
-    
-    a{
-        text-decoration: none;
-        display: block;
-    }
-
-    font-family: 'Noto Sans TC', 'Roboto', sans-serif;
-
-
-
 }
 ol, ul {
     list-style: none;
@@ -62,7 +47,3 @@ table {
     border-spacing: 0;
 }
 
-* {
-	box-sizing: border-box;
-    // scroll-behavior:smooth;
-}
